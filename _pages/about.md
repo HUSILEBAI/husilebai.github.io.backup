@@ -11,7 +11,7 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   address: >
-    <p>GC, 260 Central Campus Dr.</p>
+    <p>260 Central Campus Dr.</p>
     <p>Salt Lake City, Utah, 84112</p>
 
 news: true  # includes a list of news items
