@@ -106,7 +106,7 @@ contact_note: >
 # Analytics and search engine verification
 # -----------------------------------------------------------------------------
 
-google_analytics:356424591 #UA-259153389-1 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
+google_analytics: G-356424591 #UA-259153389-1 # your Google Analytics measurement ID (format: G-XXXXXXXXXX)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
 
 google_site_verification: #CQ1i1P3V2vffJz5afgJ2Hl—Ptut8zQhtugtmZ0Z6t8  # your google-site-verification ID (Google Search Console)
