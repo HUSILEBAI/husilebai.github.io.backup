@@ -7,38 +7,22 @@
     - name: Languages
       value: English, Mongolian, Chinese (Mandarin)
 
+- title: Education
+  type: nested_list
+  contents:
+    - title: Ph.D. University of Utah, Department of Atmospheric Sciences (Dec, 2022)
+      items: 
+        - Advisor - Courtenay Strong
+        - Dissertation - Dissertation - Teleconnection mechanisms associated with ecologically-relevant climate dipoles
+    - title: M.S. University of Chinese Academy of Sciences, Institute of Earth Environment (Jul, 2018)
+      items: 
+        - Advisors - Guohui Li and Yu Liu
+        - Thesis - Impact of the ice nuclei on the development of the cumulus clouds over the North China Plain
 
-# - title: Education
-#   type: time_table
-#   contents:
-#     - title: Ph.D. 
-      # institution: University of Utah, Department of Atmospheric Sciences
-      # year: 2018-2022
-      # description:
-      #  - Advisor - Courtenay Strong
-      #  - Dissertation - Teleconnection mechanisms associated with ecologically-relevant climate dipoles
-      # description:
-      # - Description 1
-      # - Description 2     
-        # - title: Description 3.
-        #   contents:
-        #     - Sub-description 1.
-        #     - Sub-description 2.
-    # - title: M.S.
-    #   institution: University of Chinese Academy of Sciences, Institute of Earth Environment
-    #   year: 2015-2018
-    #   description:
-    #    - Advisor - Guohui Li and Yu Liu
-    #    - Thesis - Impact of the ice nuclei on the development of the cumulus clouds over the North China Plain
-    #   # description:
-    #   #   - Description 1.
-    #   #   - Description 2.
-    # - title: B.S.
-    #   institution: Lanzhou University, College of Atmospheric Sciences
-    #   year: 2011-2015
-    #   description:
-    #    - Supervisor - Yi Yang
-    #    - Capstone project - Numerical weather simulation and analysis of a heavy rainstorm 
+    - title: B.S. Lanzhou University, College of Atmospheric Sciences (Jul, 2015)
+      items: 
+        - Supervisor - Yi Yang
+        - Capstone project - Numerical weather simulation and analysis of a heavy rainstorm 
 
 
 - title: Research Experience
@@ -74,22 +58,6 @@
         - Using NCL for reading and visualizing data
 
 
-- title: Education
-  type: nested_list
-  contents:
-    - title: Ph.D. University of Utah, Department of Atmospheric Sciences (Dec, 2022)
-      items: 
-        - Advisor - Courtenay Strong
-        - Dissertation - Dissertation - Teleconnection mechanisms associated with ecologically-relevant climate dipoles
-    - title: M.S. University of Chinese Academy of Sciences, Institute of Earth Environment (Jul, 2018)
-      items: 
-        - Advisors - Guohui Li and Yu Liu
-        - Thesis - Impact of the ice nuclei on the development of the cumulus clouds over the North China Plain
-
-    - title: B.S. Lanzhou University, College of Atmospheric Sciences (Jul, 2015)
-      items: 
-        - Supervisor - Yi Yang
-        - Capstone project - Numerical weather simulation and analysis of a heavy rainstorm 
 
 - title: Teaching experience
   type: list
