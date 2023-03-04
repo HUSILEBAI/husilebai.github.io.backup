@@ -8,12 +8,6 @@
     - name: Languages
       value: English, Mongolian, Chinese (Mandarin)
 
-- title: Publication
-type: list
-contents:
-   - Liu, Y., Ta, W., Li, Q. et al. Tree-ring stable carbon isotope-based April–June relative humidity reconstruction since AD 1648 in Mt. Tianmu, China. Clim Dyn 50, 1733–1745 (2018). https://doi.org/10.1007/s00382-017-3718-6 [link](https://doi.org/10.1007/s00382-017-3718-6)
-
-
 
 - title: Education
   type: time_table
@@ -106,14 +100,23 @@ contents:
 # - title: Academic Interests
 #   type: nested_list
 #   contents:
-#     - title: Topic 1.
+#     - title: climate variability and climate dynamics
 #       items: 
 #         - Description 1.
 #         - Description 2.
-#     - title: Topic 2.
+#     - title: weather and climate modeling 
 #       items:
 #         - Description 1.
 #         - Description 2.
+#     - title: glacier dynamics and modeling
+#       items:
+#         - Description 1.
+        # - Description 2.
+
+# - title: Other Interests
+#   type: list
+#   contents:
+#     - papers-all: true
 
 # - title: Other Interests
 #   type: list

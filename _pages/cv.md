@@ -3,6 +3,8 @@ layout: cv
 permalink: /cv/
 title: Curriculum vitae
 nav: true
-nav_order: 4
+# nav_order: 4
 cv_pdf: example_pdf.pdf
+# papers-all: true
 ---
+
