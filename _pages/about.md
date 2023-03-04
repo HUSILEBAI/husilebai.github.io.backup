@@ -1,9 +1,9 @@
 ---
 layout: about
-title: Husile Bai, Ph.D.
+title: Home
 permalink: /
-
-#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
+# description: Climate Scientist & Postdoctoral Research Scientist
+subtitle: Ph.D. & Climate Scientist #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
 
 
 profile:
