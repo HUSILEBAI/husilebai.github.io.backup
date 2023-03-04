@@ -1,6 +1,6 @@
 ---
 layout: about
-title: Home
+title: Husile Bai, Ph.D.
 permalink: /
 
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
