@@ -2,9 +2,9 @@
 layout: about
 title: Home
 permalink: /
-description: Husile Bai Ph.D., climate variability and dynamics, Earth system modeling, glacier mass balance and dynamics #jekyll, academic-website, portfolio-website  # add your own keywords or leave empty
+description: Husile Bai Ph.D., climate variability and dynamics, Earth system modeling, cryosphere-atmosphere interactions, glacier mass balance and dynamics #jekyll, academic-website, portfolio-website  # add your own keywords or leave empty
 
-subtitle: Ph.D. & Earth Scientist #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
+subtitle: Ph.D. & Climate Scientist #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
 
 
 profile:
