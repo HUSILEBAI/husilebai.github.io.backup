@@ -20,11 +20,11 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Postdoctoral Research Scientist at University of Utah. I am studying glacier dynamics using the [Icepack](https://icepack.github.io) model. I am also interested in the snow/ice land surface processes as well as their interaction with the atmosphere.  
+I am a Postdoctoral Research Scientist at University of Utah. Presently, I am studying glacier dynamics using the [Icepack](https://icepack.github.io) model. Additionally, I am investigating interactions between glaciers and atmosphere using the Weather Research & Forecasting model ([WRF](https://www.mmm.ucar.edu/models/wrf)).  
 
 Previously, I studied the teleconnection mechanisms associated with ecologically-relevant climate dipole, using both historical observational analysis and Global Climate Model (GCM) boundary forcing experiments, mainly to understand how monsoonal and tropical convection drives continental-scale climate dipoles which impact the bird irruption and conifer seed masting over the boreal forest.
 
-I am very insterested in climate variability and dynamics, climate modeling, snow-ice-air interactions, and glacier mechanisms. 
+I am very insterested in climate variability and dynamics, climate modeling, cryosphere-atmosphere interactions, and glacier mass balance and dynamics. 
 
 
 <!--- 
