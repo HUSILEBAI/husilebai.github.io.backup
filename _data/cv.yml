@@ -43,9 +43,10 @@
       year: 2019 - 2022
       description:
         - Committee - Drs. Courtenay Strong (Chair), John Horel, Jalene M. LaMontagne, Thomas R. Reichler, Benjamin Zuckerberg
-        - Studied the interdisciplinary research covering climate, tree masting, and bird migration, mainly to understand the teleconnection mechanisems link to the continental-scale climate dipoles which influence the ecological-evolutionary processes, such as bird migration and conifer seed masting.
+        - Studied atmospheric teleconnection that driving continental-scale bird irruption and seed masting.
         - Conducted sea surface temeprature boundary forcing experiments using Community Earth System Model (CESM2.0), and mentored other graduate students in the lab on CESM process.
-        - Using Matlab and Python for data analyzing
+        - Analyzed Geophysical Fluid Dynamics Laboratory (GFDL) Climate Model output data and Coupled Model Intercomparison Project phase 6 (CMIP6) data
+        - Data analyzing tools - Matlab and Python 
 
         # - Description 2.
     - title: Graduate Research Assistant
@@ -55,7 +56,7 @@
         - Committee - Drs. Zhaolin Gu (Chair), Yu Liu, Guohui Li, Xuexi Tie, Yongming Han
         - Studied aerosol-cloud interaction using Cloud Resolving Weather Research and Forecasting (CR-WRF) model
         - Tained in the dendroclimatology lab - studied tree-ring cross-dating and data processing and participated in the dendroclimatology fieldwork
-        - Using NCL and IDL for reading and visualizing data
+        - Data analyzing tools - NCL and IDL 
 
 
 
