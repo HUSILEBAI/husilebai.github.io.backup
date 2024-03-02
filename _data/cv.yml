@@ -13,18 +13,21 @@
 - title: Education
   type: time_table
   contents:
-    - title: Ph.D. University of Utah, Department of Atmospheric Sciences 
+    - title: Ph.D. 
+      institution: University of Utah, Department of Atmospheric Sciences 
       year: Dec, 2022
       items: 
         - Advisor - Courtenay Strong
         - Dissertation - Teleconnection mechanisms associated with ecologically-relevant climate dipoles
-    - title: M.S. University of Chinese Academy of Sciences, Institute of Earth Environment 
+    - title: M.S. 
+      institution: University of Chinese Academy of Sciences, Institute of Earth Environment 
       year: Jul, 2018
       items: 
         - Advisors - Guohui Li and Yu Liu
         - Thesis - Impact of the ice nuclei on the development of the cumulus clouds over the North China Plain
 
-    - title: B.S. Lanzhou University, College of Atmospheric Sciences 
+    - title: B.S. 
+      institution: Lanzhou University, College of Atmospheric Sciences 
       year: Jul, 2015
       items: 
         - Supervisor - Yi Yang
@@ -34,11 +37,14 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Postdoctoral Research Scientist, Cryosphere lab
+    - title: Postdoctoral Research Scientist, Snow & Ice Lab
       institution: Geography Department, University of Utah
       year: Jan 2023 - 
       description:
         - Mentor - Summer Rupper
+        - Investigating the glacier mass balance and its impacts on the global sea level rise - MAGIC project
+        - Investigating the glacier-atmosphere interactions - NASA HiMAT project
+        - Investigating the dynamics of the Alpine glaciers - NSF project
         # - Description 2.
         # - title: Description 3.
         #   contents:
@@ -94,12 +100,12 @@
   contents:
     - year: 2023
       items: 
-        - Dr. Norihiko Fukuta Memorial Award Best Peer-Reviewed Publication, Department of Atmospheric Sciences, University of Utah
-        - Poster Evaluator, Office of Undergraduate Research, University of Utah
+        - Dr. Norihiko Fukuta Memorial Award Best Peer-Reviewed Publication
+        - Poster Evaluator, Office of Undergraduate Research
     - year: 2022
       items: 
         - AGU Chapman Conference Second National Conference travel grant
-        - Rockstars Student Service Award, Department of Geology & Geophysics, University of Utah
+        - Rockstars Student Service Award, Department of Geology & Geophysics
     - year: 2021
       items:
         - University of Utah Graduate Student Travel Award
