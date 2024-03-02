@@ -6,20 +6,26 @@
 
     - name: Languages
       value: English, Mongolian, Chinese (Mandarin)
+    
+    - name: Research Interest 
+      value: Atmospheric dynamics, climate dynamics and variability, regional and global climate modeling, Earth system modeling, surface-atmosphere interactions, cloud microphysics, hydroclimate, cryosphere
 
 - title: Education
-  type: nested_list
+  type: time_table
   contents:
-    - title: Ph.D. University of Utah, Department of Atmospheric Sciences (Dec, 2022)
+    - title: Ph.D. University of Utah, Department of Atmospheric Sciences 
+      year: Dec, 2022
       items: 
         - Advisor - Courtenay Strong
         - Dissertation - Teleconnection mechanisms associated with ecologically-relevant climate dipoles
-    - title: M.S. University of Chinese Academy of Sciences, Institute of Earth Environment (Jul, 2018)
+    - title: M.S. University of Chinese Academy of Sciences, Institute of Earth Environment 
+      year: Jul, 2018
       items: 
         - Advisors - Guohui Li and Yu Liu
         - Thesis - Impact of the ice nuclei on the development of the cumulus clouds over the North China Plain
 
-    - title: B.S. Lanzhou University, College of Atmospheric Sciences (Jul, 2015)
+    - title: B.S. Lanzhou University, College of Atmospheric Sciences 
+      year: Jul, 2015
       items: 
         - Supervisor - Yi Yang
         - Capstone project - Numerical weather simulation and analysis of a heavy rainstorm 
@@ -59,30 +65,44 @@
         - Data analyzing tools - NCL and IDL 
 
 
-
 - title: Teaching experience
-  type: list
+  type: time_table
   contents:
-    - Teaching assistant for The Climate System | Fall 2021 & Fall 2020
-    - Teaching assistant for Environmental Stats (graduate course) | Spring 2021
+    - title: Lab Instructor
+      year: Spring 2024
+      description: Geographical Analysis @ Department of Geography, University of Utah
+    - title: Adjunct
+      year: Summer 2022
+      description: Climate Change @ Department of Geosciences, Salt Lake Community College
+    - title: Teaching Assistant
+      year: Fall 2020 & 2021
+      description: Climate System @ Department of Atmospheric Sciences, University of Utah
+    - title: Teaching Assistant
+      year:  Spring 2021
+      description: Environmental Stats (graduate course) @ Department of Atmospheric Sciences, University of Utah
 
-# - title: Open Source Projects
-#   type: time_table
-#   contents:
-#     - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-#       year: 2015-now
-#       description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
 
-# - title: Honors and Awards
-#   type: time_table
-#   contents:
-#     - year: 1921
-#       items: 
-#         - Nobel Prize in Physics 
-#         - Matteucci Medal
-#     - year: 2029
-#       items: 
-#         - Max Planck Medal
+# - title: Research Projects
+  # type: time_table
+  # contents:
+  #   - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
+  #     year: 2015-now
+  #     description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+
+- title: Honors and Awards
+  type: time_table
+  contents:
+    - year: 2023
+      items: 
+        - Dr. Norihiko Fukuta Memorial Award Best Peer-Reviewed Publication, Department of Atmospheric Sciences, University of Utah
+        - Poster Evaluator, Office of Undergraduate Research, University of Utah
+    - year: 2022
+      items: 
+        - AGU Chapman Conference Second National Conference travel grant
+        - Rockstars Student Service Award, Department of Geology & Geophysics, University of Utah
+    - year: 2021
+      items:
+        - University of Utah Graduate Student Travel Award
 
 # - title: Academic Interests
 #   type: nested_list

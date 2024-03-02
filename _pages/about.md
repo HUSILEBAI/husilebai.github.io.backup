@@ -11,11 +11,13 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>260 Central Campus Dr.</p>
-    <p>Salt Lake City, Utah, 84112</p>
+  # address: >
+  #   # <p>260 Central Campus Dr.</p>
+  #   # <p>Salt Lake City, Utah, 84112</p>
+  #   #  <p></p>
 
-# news: true  # includes a list of news items
+
+news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
@@ -24,7 +26,6 @@ I am a Postdoctoral Research Scientist at University of Utah. Presently, I am st
 
 Previously, I studied the teleconnection mechanisms associated with ecologically-relevant climate dipole, using both historical observational analysis and Global Climate Model (GCM) boundary forcing experiments, mainly to understand how monsoonal and tropical convection drives continental-scale climate dipoles which impact the bird irruption and conifer seed masting over the boreal forest.
 
-I am very insterested in climate variability and dynamics, climate modeling, cryosphere-atmosphere interactions, and glacier mass balance and dynamics. 
 
 
 <!--- 
