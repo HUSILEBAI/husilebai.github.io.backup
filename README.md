@@ -1,12 +1,12 @@
 # al-folio
-<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 
-[![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
+<!-- [![deploy](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml/badge.svg)](https://github.com/alshedivat/al-folio/actions/workflows/deploy.yml)
 [![demo](https://img.shields.io/badge/theme-demo-brightgreen.svg)](https://alshedivat.github.io/al-folio/)
 [![GitHub contributors](https://img.shields.io/github/contributors/alshedivat/al-folio.svg)](https://github.com/alshedivat/al-folio/graphs/contributors/)
-[![Maintainers][maintainers]](#maintainers)
+[![Maintainers][maintainers]](#maintainers) --> -->
 <!-- [![GitHub release](https://img.shields.io/github/v/release/alshedivat/al-folio)](https://github.com/alshedivat/al-folio/releases/latest)
 [![GitHub license](https://img.shields.io/github/license/alshedivat/al-folio?color=blue)](https://github.com/alshedivat/al-folio/blob/master/LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/alshedivat/al-folio)](https://github.com/alshedivat/al-folio)
@@ -18,10 +18,21 @@
 
 <!-- Husile Bai's personal website.  -->
 
-A simple, clean, and responsive [Jekyll](https://jekyllrb.com/) theme for academics.
-If you like the theme, give it a star!
+## About me
+My name is Husile (she/her) and I am a Postdoctoral Research Associate at the Snow & Ice Lab, University of Utah. My academic pursuits center around climate science and the associated impacts.
 
-[![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
+## I use
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![MATLAB](https://img.shields.io/badge/-MATLAB-orange?style=for-the-badge&logo=MATLAB)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Mac OS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
+## contact
+husile.bai@utah.edu
+
+
+<!-- [![Preview](https://raw.githubusercontent.com/alshedivat/al-folio/master/assets/img/al-folio-preview.png)](https://alshedivat.github.io/al-folio/)
 
 
 <!-- ## Table Of Contents
@@ -58,7 +69,7 @@ Want to learn more about Jekyll? Check out [this tutorial](https://www.taniarasc
 Why Jekyll? Read [Andrej Karpathy's blog post](https://karpathy.github.io/2014/07/01/switching-to-jekyll/)! -->
 
 
-### Installation
+<!-- ### Installation
 
 For a hands-on walkthrough of al-folio installation, check out [this cool video tutorial](https://www.youtube.com/watch?v=g6AJ9qPPoyc) by one of the community members! 🎬 🍿
 
@@ -114,13 +125,13 @@ $ bundle exec jekyll serve --lsi
 ```
 
 Now, feel free to customize the theme however you like (don't forget to change the name!).
-After you are done, **commit** your final changes.
+After you are done, **commit** your final changes. -->
 
----
+<!-- --- -->
+ 
+<!-- #### Deployment -->
 
-#### Deployment
-
-Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
+<!-- Deploying your website to [GitHub Pages](https://pages.github.com/) is the most popular option.
 Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0.3.5), **al-folio** will automatically re-deploy your webpage each time you push new changes to your repository! :sparkles:
 
 **For personal and organization webpages:**
@@ -142,9 +153,9 @@ Starting version [v0.3.5](https://github.com/alshedivat/al-folio/releases/tag/v0
 3. Make any other changes to your webpage, commit, and push. This will automatically trigger the **Deploy** action.
 4. Wait for a few minutes and let the action complete. You can see the progress in the **Actions** tab. If completed successfully, in addition to the `master` branch, your repository should now have a newly built `gh-pages` branch.
 5. Finally, in the **Settings** of your repository, in the Pages section, set the branch to `gh-pages` (**NOT** to `master`). For more details, see [Configuring a publishing source for your GitHub Pages site](https://docs.github.com/en/pages/getting-started-with-github-pages/configuring-a-publishing-source-for-your-github-pages-site#choosing-a-publishing-source).
+ -->
 
-
-<details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
+<!-- <details><summary>(click to expand) <strong>Manual deployment to GitHub Pages:</strong></summary>
 
 If you need to manually re-deploy your website to GitHub pages, run the deploy script from the root directory of your repository:
 ```bash
@@ -167,9 +178,9 @@ Then simply copy the contents of the `_site/` foder to your hosting server.
 
 </details>
 
-<details><summary>(click to expand) <strong>Deployment to a separate repository (advanced users only):</strong></summary>
+<details><summary>(click to expand) <strong>Deployment to a separate repository (advanced users only):</strong></summary> -->
 
-**Note:** Do not try using this method unless you know what you are doing (make sure you are familiar with [publishing sources](https://help.github.com/en/github/working-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)). This approach allows to have the website's source code in one repository and the deployment version in a different repository.
+<!-- **Note:** Do not try using this method unless you know what you are doing (make sure you are familiar with [publishing sources](https://help.github.com/en/github/working-with-github-pages/about-github-pages#publishing-sources-for-github-pages-sites)). This approach allows to have the website's source code in one repository and the deployment version in a different repository.
 
 Let's assume that your website's publishing source is a `publishing-source` sub-directory of a git-versioned repository cloned under `$HOME/repo/`.
 For a user site this could well be something like `$HOME/<user>.github.io`.
@@ -218,7 +229,7 @@ You can still follow the steps above, but `git rebase` may result in merge confl
 See [git rebase manual](https://help.github.com/en/github/using-git/about-git-rebase) and how to [resolve conflicts](https://help.github.com/en/github/using-git/resolving-merge-conflicts-after-a-git-rebase) for more information.
 If rebasing is too complicated, we recommend to re-install the new version of the theme from scratch and port over your content and changes from the previous version manually.
 
----
+--- -->
 
 <!-- ### FAQ
 
@@ -461,4 +472,4 @@ For more complex issues/bugs or feature requests, please open an issue using the
 The theme is available as open source under the terms of the [MIT License](https://github.com/alshedivat/al-folio/blob/master/LICENSE).
 
 Originally, **al-folio** was based on the [\*folio theme](https://github.com/bogoli/-folio) (published by [Lia Bogoev](https://liabogoev.com) and under the MIT license).
-Since then, it got a full re-write of the styles and many additional cool features. -->
+Since then, it got a full re-write of the styles and many additional cool features. --> -->
