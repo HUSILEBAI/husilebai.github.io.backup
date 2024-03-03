@@ -6,26 +6,27 @@ description: Husile Bai Ph.D., climate variability and dynamics, Earth system mo
 
 subtitle: Ph.D. & Climate Scientist #<a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc. 
 
-
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  # address: >
-  #   # <p>260 Central Campus Dr.</p>
-  #   # <p>Salt Lake City, Utah, 84112</p>
-  #   #  <p></p>
+  address: >
+    <p>260 Central Campus Dr.</p>
+    <p>Salt Lake City, Utah, 84112</p>
+   
 
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
+
+
+
 ---
 
 I am a Postdoctoral Research Scientist at University of Utah. Presently, I am studying glacier dynamics using [ICEPACK](https://icepack.github.io) model, developped by [Daniel Shapero](https://psc.apl.uw.edu/people/investigators/daniel-shapero/) at [Polar Science Center](https://psc.apl.uw.edu), University of Washington. Additionally, I am investigating the impacts of glacier/ice on atmospheric circulations and hydroclimate patterns at local and regional scale using the Weather Research & Forecasting model ([WRF](https://www.mmm.ucar.edu/models/wrf)) as part of the [NASA HiMAT](https://himat.org) project. I also participated in [MAGIC](https://www.glaciersealevel.com) project, contributing to the examination of alpine glaciers' mass balance and their effects on global sea level rise, as well as exploring broader socioeconomic implications. 
 
 Previously, I studied the teleconnection mechanisms associated with ecologically-relevant climate dipole, using both historical observational analysis and sea surface boundary forcing experiments using [Community Earth System Model 2 (CESM2)](https://www.cesm.ucar.edu), mainly to understand how monsoonal and tropical convection drives large-scale climate dipoles which impact continent-wide bird irruption and forest masting.
-
 
 
 <!--- 

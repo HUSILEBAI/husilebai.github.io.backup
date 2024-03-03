@@ -1,4 +1,4 @@
-<!-- ---
+<!-- --- 
 layout: page
 title: project 4
 description: another without an image
@@ -17,7 +17,7 @@ To give your project a background in the portfolio page, just add the img tag to
     layout: page
     title: project
     description: a project with a background image
-    img: /assets/img/12.jpg
+    img: /assets/img/GSL.jpg
     ---
 
 <div class="row">
@@ -77,4 +77,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %} -->
+{% endraw %} --> -->
