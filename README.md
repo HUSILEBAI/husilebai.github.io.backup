@@ -1,4 +1,4 @@
-# al-folio
+<!-- # al-folio -->
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section
 [maintainers]: https://img.shields.io/badge/maintainers-3-success.svg 'Number of maintainers'
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
@@ -18,7 +18,7 @@
 
 <!-- Husile Bai's personal website.  -->
 
-## About me
+## About me 🌻
 My name is Husile (she/her) and I am a Postdoctoral Research Associate at the Snow & Ice Lab, University of Utah. My academic pursuits center around climate science and the associated impacts.
 
 ## I use

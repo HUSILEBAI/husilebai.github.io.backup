@@ -68,6 +68,10 @@ serve_schema_org: false # Include Schema.org in the HTML head
 og_image: # The site-wide (default for all links) Open Graph preview image
 
 # -----------------------------------------------------------------------------
+# Gmoji https://www.webfx.com/tools/emoji-cheat-sheet/
+# -----------------------------------------------------------------------------
+emoji_dir: ./img/emoji
+# -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 

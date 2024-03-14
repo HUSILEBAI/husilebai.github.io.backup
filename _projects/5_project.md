@@ -1,6 +1,6 @@
 --- 
 layout: page
-title: photography
+title: photography 📸
 description: nature's majesty
 img: assets/img/GSL.jpg
 importance: 4

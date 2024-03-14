@@ -1,4 +1,4 @@
-- title: General Information
+- title: General information
   type: map
   contents:
     - name: Name
@@ -8,7 +8,10 @@
       value: English, Mongolian (native), Chinese (Mandarin)
     
     - name: Research Interest 
-      value: Atmospheric dynamics, climate dynamics and variability, regional and global climate modeling, Earth system modeling, surface-atmosphere interactions, cloud microphysics, hydroclimate, cryosphere
+      value: Large-scale atmospheric circulation, climate dynamics and variability, climate modeling, Earth system modeling, surface-atmosphere interactions, hydroclimate, cryosphere
+    - name:
+    - name:
+      value: (📌 to download the CV, click the pdf icon at the top right.)
 
 - title: Education
   type: time_table

@@ -1,12 +1,14 @@
 ---
 layout: page
-title: Boreal forest Resilience
+title: Boreal forest Resilience 
 description: North American Dipole (NAD)
 img: assets/img/graphical_nad.png
 importance: 1
 category: work
 related_publications: true
 ---
+
+ 🌲 🌳 🌿 🌧 🌨 🌩
 
  NAD is a prominent mode of atmospheric circulation pattern, defined as the second principal component of summertime 500-hPa gepotential height over the domian of 35°–65° N, 170°–340° E. 
 
