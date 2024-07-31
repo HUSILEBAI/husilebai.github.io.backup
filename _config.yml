@@ -19,7 +19,7 @@ keywords: Husile Bai, climate variability and dynamics, regional and global clim
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: ⚛️  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
-url:  https://husilebai.com #https://husilebai.github.io # the base hostname & protocol for your site
+url:  https://husilebai.github.io # the base hostname & protocol for your site
 # url: http://example.com # Custom domain
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: false # set to true if you want to display last updated in the footer
