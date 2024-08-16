@@ -10,10 +10,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
-    <p>260 Central Campus Dr.</p>
-    <p>Salt Lake City, Utah, 84112</p>
-   
+  
 
 
 news: true  # includes a list of news items
@@ -31,6 +28,10 @@ My Ph.D. research under Prof. [Courtenay Strong](https://www.inscc.utah.edu/~str
 
 
 <!--- 
+address: >
+    <p>SC 6701</p>
+    <p>Salt Lake City, Utah, 84112</p>
+   
 using both historical observational analysis and sea surface boundary forcing experiments using [Community Earth System Model 2 (CESM2)](https://www.cesm.ucar.edu)
 
 Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
