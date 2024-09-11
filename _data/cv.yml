@@ -40,9 +40,13 @@
 - title: Research Experience
   type: time_table
   contents:
+   - title: Assitant Professor of the Practice
+      institution: Earth & Environmental Sciences, Vanderbilt University
+      year: 2024 -
+      description: 
     - title: Postdoctoral Research Scientist, Snow & Ice Lab
       institution: Geography Department, University of Utah
-      year: Jan 2023 - 
+      year: 2023 - 2024
       description:
         - Mentor - Summer Rupper
         - Investigating the glacier mass balance and its impacts on the global sea level rise - MAGIC project
@@ -77,6 +81,9 @@
 - title: Teaching experience
   type: time_table
   contents:
+   - title: Instructor
+      year: Fall 2024
+      description: Introduction to Climate Change @ Department of Earth & Environmental Sciences, Vanderbilt University
     - title: Lab Instructor
       year: Spring 2024
       description: Geographical Analysis @ Department of Geography, University of Utah
