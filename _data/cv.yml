@@ -40,10 +40,11 @@
 - title: Research Experience
   type: time_table
   contents:
-   - title: Assitant Professor of the Practice
+    - title: Assitant Professor of the Practice
       institution: Earth & Environmental Sciences, Vanderbilt University
       year: 2024 -
       description: 
+        - Downscale precipitation over the Great Salt Lake
     - title: Postdoctoral Research Scientist, Snow & Ice Lab
       institution: Geography Department, University of Utah
       year: 2023 - 2024
@@ -81,7 +82,7 @@
 - title: Teaching experience
   type: time_table
   contents:
-   - title: Instructor
+    - title: Instructor
       year: Fall 2024
       description: Introduction to Climate Change @ Department of Earth & Environmental Sciences, Vanderbilt University
     - title: Lab Instructor
